@@ -187,4 +187,4 @@ const styles = StyleSheet.create({
     left: width * 0.3,
     opacity: 0.7,
   },
-});
+}); 
