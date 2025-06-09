@@ -1,3 +1,4 @@
+// This handles user input validation
 // Minor tweak for readability
 # Welcome to your Expo app 👋
 
