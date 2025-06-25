@@ -37,6 +37,7 @@ When you're ready, run:
 npm run reset-project
 // TODO: Refactor this logic later
 ```
+// Added comment for future debugging
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
